@@ -1,1 +1,2 @@
 day la code tu master
+from master
